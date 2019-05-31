@@ -6,21 +6,5 @@ public class PrimeiroGit {
 	//Teste aula com o Luiz Ricardo
     
     //Teste darley github
-    da
-            sd
-            asd
-                    asd
-                    as
-                            da
-                            sd
-                                    asd
-                                    
-                                    asd
-                                            as
-                                            da
-                                                    sda
-                                                    d
-                                                            asd
-                                                            
-                                    
-}
+     ola
+             seja bem vindo!!!
